@@ -35,4 +35,7 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-
+## Screenshots
+<img src="https://raw.githubusercontent.com/jrgarciadev/nextjs-todo-list/master/public/todo1.png alt="screenshot 1" />
+<img src="https://raw.githubusercontent.com/jrgarciadev/nextjs-todo-list/master/public/screenshot2.png" alt="screenshot 1" />
+<img src="https://raw.githubusercontent.com/jrgarciadev/nextjs-todo-list/master/public/screenshot3.png" alt="screenshot 1" />
